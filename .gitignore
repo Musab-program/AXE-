@@ -1,0 +1,35 @@
+# Source files (kept locally, hidden from public GitHub)
+*.cs
+*.csproj
+*.sln
+*.manifest
+Models/
+Services/
+Properties/
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.log
+
+## Publish folders
+Publish/
+PublishAXE/
+PublishSingleSmall/
+PublishStandalone/
+publish/
+
+## Other
+*.tmp
+*.bak
+*.cache
